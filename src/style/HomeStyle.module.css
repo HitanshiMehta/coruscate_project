@@ -1,0 +1,5 @@
+.containerClass {
+  background: linear-gradient(#b4dbe2, #3f93a0);
+  height: 100vh;
+  overflow: scroll;
+}
